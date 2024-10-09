@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = () => {
     return (
-        <div className="card d-flex" style={{width:"18rem"}}>
+        <div className="card text-center" style={{width:"18rem"}}>
             <img src="https://placehold.co/500x325" className="card-img-top" alt="..."/>
                 <div className="card-body flex-column">
                     <h5 className="card-title">Card title</h5>
