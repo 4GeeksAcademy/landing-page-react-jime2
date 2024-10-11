@@ -12,7 +12,7 @@ const Home = () => {
 	return (
 		<div clasName="text-center">
 			<Navbar />
-			<div className="bg-light text-dark bg-opacity-50">
+			<div className="text-dark">
 			<Jumbotron />
 
 				<div className="d-flex flex-wrap justify-content-evenly m-auto">
